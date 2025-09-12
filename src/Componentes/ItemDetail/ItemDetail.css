@@ -1,0 +1,6 @@
+.cardItemDetail {
+    border: 1px solid black;
+    display: inline-block;
+    width: 500px;
+    text-align: center;
+}
